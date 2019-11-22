@@ -1,2 +1,3 @@
 Hello Git
-/n my name is zhangdong
+my name is zhangdong
+I want use git in idea, using this file for test.
